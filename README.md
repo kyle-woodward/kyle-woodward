@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-woodward&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-woodward" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-woodward" alt="kyle-woodward" /></a> </p>
-
 - 🌱 I’m currently learning **Google Cloud Platform**
 
 - 💬 Ask me about **Google Earth Engine and geospatial python**
