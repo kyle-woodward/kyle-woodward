@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Woodward</h1>
-<h3 align="center">A data engineer and solution architect from Virginia, USA</h3>
+<h3 align="center">A data engineer from Virginia, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-woodward&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-woodward" /> </p>
 
