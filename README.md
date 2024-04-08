@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-woodward&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-woodward" /> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 💬 Ask me about **Google Earth Engine and geospatial python**
 
