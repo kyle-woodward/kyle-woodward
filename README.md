@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-woodward&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-woodward" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 👷‍♂️ I’m currently working on **benchmarking Earth Observation Foundation Models for wildfire 🔥**
 
-- 💬 Ask me about **Google Earth Engine and geospatial python**
+- ☁️ I'm currently interested in **cloud-native geospatial and deep learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
