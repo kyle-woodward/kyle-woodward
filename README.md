@@ -2,7 +2,7 @@ Hi 👋,
 
 I'm Kyle Woodward, a Data Scientist based in Virginia, USA. I apply Remote Sensing and Data Science to many types of environmental monitoring and natural hazard modeling problems around the world. 🌍🌎🌏
 
-- I’m currently at [Spatial Informatics Group]() working on **applying Earth Observation Foundation Models to several problems 🔥🌾🌲**
+- I’m currently at [Spatial Informatics Group](https://sig-gis.com/) working on **applying Earth Observation Foundation Models to several problems 🔥🌾🌲**
 
 - I'm curious about **cloud-native geospatial, scalable pipelines, and Deep Learning** ☁️
 
